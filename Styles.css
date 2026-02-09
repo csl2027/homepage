@@ -49,6 +49,7 @@ body {
 }
 
 
+
 #sidebar-checkbox:checked ~ #sidebar {
   width: 180px;
 }
@@ -61,13 +62,13 @@ body {
   display: inline;
 }
 
-.collapsed#sidebar {
+.collapsed#sidebar{
   width: 100px;
 }
-
-.collapsed#sidebar .menu-item a span {
+.collapsed#sidebar .menu-item a span{
   display: none;
 }
+
 
 #sidebar-overlay {
   display: none;
@@ -89,8 +90,7 @@ body {
   display: none;
 }
 
-#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-left,
-#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-right {
+#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-left {
   display: none;
 }
 
@@ -165,7 +165,9 @@ main {
 }
 
 section {
+  width: 80%;
   margin: 40px 0;
+  text-align: left;
 }
 
 main::-webkit-scrollbar {
@@ -181,6 +183,13 @@ h1 {
 h2{
   margin: 20px 0;
   font-size: 32px;
+  font-family: var(--secondary-font-family);
+}
+
+
+h3{
+  margin: 10px 0;
+  font-size: 18px;
   font-family: var(--secondary-font-family);
 }
 
