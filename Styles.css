@@ -32,6 +32,7 @@ body {
 
 
 
+
 #sidebar {
   position: fixed;
   top: 0;
@@ -52,34 +53,49 @@ body {
   width: 180px;
 }
 
-
 #sidebar .menu-item a span {
   display: none;
 }
+
 #sidebar-checkbox:checked ~ #sidebar .menu-item a span {
   display: inline;
 }
 
-
-#sidebar-toggler {
-  position: absolute;
-  right: -12.5px;
-  cursor: pointer;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  background-color: var(--third-color);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 1100;
-}
-
-.collapsed#sidebar{
+.collapsed#sidebar {
   width: 100px;
 }
-.collapsed#sidebar .menu-item a span{
+
+.collapsed#sidebar .menu-item a span {
   display: none;
+}
+
+#sidebar-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 900;
+  background: transparent;
+  cursor: pointer;
+}
+
+#sidebar-checkbox:checked ~ #sidebar-overlay {
+  display: block;
+}
+
+#sidebar-toggler .chevron-right {
+  display: none;
+}
+
+#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-left,
+#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-right {
+  display: none;
+}
+
+#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-right {
+  display: inline;
 }
 
 header {
@@ -106,7 +122,6 @@ header {
   justify-content: center;
 }
 
-
 #main-menu{
   margin-top: 50px;
   width: 100%;
@@ -118,6 +133,7 @@ header {
 .menu-item {
   list-style: none;
   width: 100%;
+  transition: width 0.3s;
   padding: 10px;
 }
 
@@ -207,28 +223,3 @@ tr:nth-child(odd) {
   width: 240px;
 }
 
-
-
-#sidebar-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: 900;
-  background: transparent;
-  cursor: pointer;
-}
-#sidebar-checkbox:checked ~ #sidebar-overlay {
-  display: block;
-}
-#sidebar-toggler .chevron-right {
-  display: none;
-}
-#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-left {
-  display: none;
-}
-#sidebar-checkbox:checked ~ #sidebar #sidebar-toggler .chevron-right {
-  display: inline;
-}
