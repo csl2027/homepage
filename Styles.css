@@ -30,7 +30,9 @@ body {
   padding: 0;
 }
 
-
+ul{
+  padding-left: 20px;
+}
 
 
 #sidebar {
@@ -47,8 +49,6 @@ body {
   padding-top: 30px;
   z-index: 1000;
 }
-
-
 
 #sidebar-checkbox:checked ~ #sidebar {
   width: 180px;
@@ -130,12 +130,18 @@ header {
   align-items: center;
 }
 
+.main-menu > ul {
+  padding-left: 0px;
+}
+
 .menu-item {
   list-style: none;
   width: 100%;
   transition: width 0.3s;
   padding: 10px;
 }
+
+
 
 a {
   color: var(--third-color);
@@ -231,4 +237,3 @@ tr:nth-child(odd) {
 .sponsor > img {
   width: 240px;
 }
-
