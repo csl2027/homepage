@@ -9,7 +9,7 @@
   </head>
 
   <body>
-    
+    <!-- Sidebar/Menu -->
     <input type="checkbox" id="sidebar-checkbox" class="sidebar-checkbox" hidden>
     <label for="sidebar-checkbox" id="sidebar-overlay"></label>
     <nav id="sidebar">
@@ -19,7 +19,7 @@
            <i class="bx bx-chevron-left chevron-right"></i>
           </label>
       </header>
-      <div class="main-menu">
+      <div id="main-menu">
         <ul>
           <li class="menu-item"><a href="index.html"><i class="bx bxs-home icon"></i><span>Home</span></a></li>
           <li class="menu-item"><a href="index.html#important-dates"><i class='bx  bxs-calendar-event'></i> <span>Important Dates</span></a></li>
@@ -35,6 +35,7 @@
     </nav>
 
 
+    
     <main>
       <h1>35rd EACSL Annual Conference on Computer Science Logic 2025</h1>
       <img src="resources/footer-large.jpg" width="90%">
@@ -50,18 +51,9 @@
         <a href="https://www.sussex.ac.uk/">University of Sussex</a> in Brighton.
       </section>
 
-      <h2 id="sponsors">Sponsors</h2>
-
-      <section>
-        <div class="bento">
-          <div class="sponsor" style="grid-area: sponsorBox-1"><img src="resources/sponsorLogo1.png"></div>
-          <div class="sponsor" style="grid-area: sponsorBox-2"><IMG src="resources/sponsorLogo2.jpg"></div>
-          <div class="sponsor" style="grid-area: sponsorBox-3"><IMG src="resources/sponsorLogo2.jpg"></div>
-          <div class="sponsor" style="grid-area: sponsorBox-4"><IMG src="resources/sponsorLogo2.jpg"></div>
-        </div>
-      </section>
 
 
+      <!-- Important Dates -->
       <h2 id="important-dates">Important Dates</h2>
       <table>
         <tbody>
@@ -88,16 +80,33 @@
         </tbody>
       </table>
 
+
+      <!-- Sponsors -->
+      <h2 id="sponsors">Sponsors</h2>
+      <section id="sponsors-section">
+        <div class="bento">
+          <div class="box" style="grid-area: sponsorBox-1"><img src="resources/sponsorLogo1.png"></div>
+          <div class="box" style="grid-area: sponsorBox-2"><IMG src="resources/sponsorLogo1Square.png"></div>
+          <div class="box" style="grid-area: sponsorBox-3"><IMG src="resources/sponsorLogo2.jpg"></div>
+          <div class="box" style="grid-area: sponsorBox-4"><IMG src="resources/sponsorLogo2.jpg"></div>
+        </div>
+      </section>
+
+
+      <!-- CfP section-->
       <h2 id="call-for-papers">Call for Papers</h2>
 
       <section>
-        PUT HERE CALL FOR PAPERS TEXT
+        CALL FOR PAPERS TEXT
       
         <h3>Submission</h3>
-        PUT LINKS HOTCRP
+        LINK HOTCRP
 
       </section>
 
+
+
+      <!-- Committees -->
       <h2 id="committees">Committees</h2>
       <section>
 
@@ -125,20 +134,28 @@
 
 
 
+      <!-- local info -->
       <h2 id="venue">Venue and local information</h2>
       <section>TEXT</section>
 
+      <!-- workshops -->
       <h2 id="workshops">Workshops</h2>
       <section>TEXT</section>
 
+      <!-- Registration -->
       <h2 id="registration">Registration</h2>
       <section>TEXT</section>
     </main>
+
+    
+    
+
 
     <footer>
       <div>Computer Science Logic 2027 (CSL 2027)</div>
       <div>Contact Email: </div>
     </footer>
+
     <!-- <script src="scripts.js"></script> -->
   </body>
 </html>
