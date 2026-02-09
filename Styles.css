@@ -232,8 +232,25 @@ tr:nth-child(odd) {
 }
 
 
-#sponsors-bento-box{
+
+#sponsors-section{
+  width: 100%;
 }
-.sponsor > img {
-  width: 240px;
+
+.bento{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px; 
+  grid-template-areas: 
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-3"
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-4";
+}
+
+.box {
+  align-content: center;
+}
+
+.box > img {
+  width: 100%;
 }
