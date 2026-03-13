@@ -48,6 +48,7 @@ main {
   margin-left: 80px;
   margin-bottom: 80px;
   width: 75%;
+  max-width: 1200px;
   text-align: center;
   overflow: auto;
 }
@@ -235,16 +236,19 @@ tr:nth-child(odd) {
 /* Sponsor section */
 #sponsors-section{
   width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .bento{
+  align-items: center;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 20px; 
+  gap: 100px; 
   grid-template-areas: 
-    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-3"
-    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-4";
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2"
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2";
 }
 
 .box {
@@ -253,4 +257,5 @@ tr:nth-child(odd) {
 
 .box > img {
   width: 100%;
+  max-width: 200px;
 }
