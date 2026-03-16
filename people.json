@@ -1,0 +1,379 @@
+[
+    {
+        "NAME": "Matteo",
+        "SURNAME": "Acclavio",
+        "AFFILIATION": "University of Southern Denmark",
+        "COUNTRY": "Denmark",
+        "WEBSITE": "matteoacclavio.com",
+        "ROLE": "LO, PC",
+        "COMMENT": "Local Chair"
+    },{
+        "NAME": "Giulio",
+        "SURNAME": "Guerrieri",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://taroccoesbrocco.github.io/",
+        "ROLE": "LO, PC",
+        "COMMENT": "Local Chair"
+    },{
+        "NAME": "Yannic",
+        "SURNAME": "Foster",
+        "AFFILIATION": "INRIA",
+        "COUNTRY": "France",
+        "WEBSITE": "https://yforster.de/",
+        "ROLE": "PCC,PC",
+        "COMMENT": "PC Chair"
+    },{
+        "NAME": "Corina",
+        "SURNAME": "Cirstea",
+        "AFFILIATION": "University of Southampton",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://www.southampton.ac.uk/people/5wyrzl/doctor-corina-cirstea",
+        "ROLE": "PCC,PC",
+        "COMMENT": "PC Chair"
+    },{
+        "NAME": "Adrienne",
+        "SURNAME": "Lancelot",
+        "AFFILIATION": "University of Bologna",
+        "COUNTRY": "Italy",
+        "WEBSITE": "https://www.irif.fr/users/lancelot/index",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Alexis",
+        "SURNAME": "Saurin",
+        "AFFILIATION": "CNRS & IRIF",
+        "COUNTRY": "France",
+        "WEBSITE": "https://www.irif.fr/users/saurin/index",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Aliaume",
+        "SURNAME": "Lopez",
+        "AFFILIATION": "INP Bordeaux",
+        "COUNTRY": "France",
+        "WEBSITE": "https://www.irif.fr/~alopez/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Anna",
+        "SURNAME": "Sokolova",
+        "AFFILIATION": "University of Salzburg",
+        "COUNTRY": "Austria",
+        "WEBSITE": "https://www.cs.uni-salzburg.at/~anas/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Artjoms",
+        "SURNAME": "Šinkarovs",
+        "AFFILIATION": "University of Southampton",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://ashinkarov.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Arthur Azevedo de",
+        "SURNAME": "Amorim",
+        "AFFILIATION": "Rochester Institute of Technology",
+        "COUNTRY": "USA",
+        "WEBSITE": "https://arthuraa.net/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Benjamin",
+        "SURNAME": "Kaminski",
+        "AFFILIATION": "Saarland University",
+        "COUNTRY": "Germany",
+        "WEBSITE": "https://quave.cs.uni-saarland.de/benjamin-kaminski/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Dale",
+        "SURNAME": "Miller",
+        "AFFILIATION": "Inria Saclay",
+        "COUNTRY": "France",
+        "WEBSITE": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Damien",
+        "SURNAME": "Pous",
+        "AFFILIATION": "CNRS & ENS Lyon",
+        "COUNTRY": "France",
+        "WEBSITE": "https://perso.ens-lyon.fr/damien.pous",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Daniel",
+        "SURNAME": "Gratzer",
+        "AFFILIATION": "Aarhus University",
+        "COUNTRY": "Denmark",
+        "WEBSITE": "https://inano.au.dk/about/staff/show/person/gratzer%40cs.au.dk",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "David",
+        "SURNAME": "Baelde",
+        "AFFILIATION": "ENS Rennes & IRISA",
+        "COUNTRY": "France",
+        "WEBSITE": "https://people.irisa.fr/David.Baelde/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Dirk",
+        "SURNAME": "Pattinson",
+        "AFFILIATION": "Australian National University",
+        "COUNTRY": "Australia",
+        "WEBSITE": "https://users.cecs.anu.edu.au/~dpattinson/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Dmitriy",
+        "SURNAME": "Traytel",
+        "AFFILIATION": "University of Copenhagen",
+        "COUNTRY": "Denmark",
+        "WEBSITE": "https://traytel.bitbucket.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Dominik",
+        "SURNAME": "Kirst",
+        "AFFILIATION": "Inria Saclay",
+        "COUNTRY": "Germany",
+        "WEBSITE": "https://ps.uni-saarland.de/~kirst/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Erich",
+        "SURNAME": "Grädel",
+        "AFFILIATION": "RWTH Aachen University",
+        "COUNTRY": "Germany",
+        "WEBSITE": "https://logic.rwth-aachen.de/People/Graedel/index.html.en",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Filippo",
+        "SURNAME": "Bonchi",
+        "AFFILIATION": "University of Pisa",
+        "COUNTRY": "Italy",
+        "WEBSITE": "https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Ian",
+        "SURNAME": "Shillito",
+        "AFFILIATION": "University of Birmingham",
+        "COUNTRY": "Australia",
+        "WEBSITE": "https://research.birmingham.ac.uk/en/persons/ian-shillito/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Jan",
+        "SURNAME": "Hoffmann",
+        "AFFILIATION": "Carnegie Mellon University",
+        "COUNTRY": "USA",
+        "WEBSITE": "https://www.cs.cmu.edu/~janh/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Jonni",
+        "SURNAME": "Virtema",
+        "AFFILIATION": "University of Glasgow",
+        "COUNTRY": "UK",
+        "WEBSITE": "http://www.virtema.fi/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Jules",
+        "SURNAME": "Jacobs",
+        "AFFILIATION": "ETH Zürich",
+        "COUNTRY": "Switzerland",
+        "WEBSITE": "https://julesjacobs.com/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Julie",
+        "SURNAME": "Cailler",
+        "AFFILIATION": "Loria, University of Lorraine, Inria, Nancy",
+        "COUNTRY": "France",
+        "WEBSITE": "https://jcailler.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Jurriaan",
+        "SURNAME": "Rot",
+        "AFFILIATION": "Radboud University Nijmegen",
+        "COUNTRY": "Netherlands",
+        "WEBSITE": "https://jurriaan.creativecode.org/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Kazuki",
+        "SURNAME": "Watanabe",
+        "AFFILIATION": "National Institute of Informatics, Tokyo",
+        "COUNTRY": "Japan",
+        "WEBSITE": "https://group-mmm.org/~kazuki/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Larry",
+        "SURNAME": "Moss",
+        "AFFILIATION": "Indiana University Bloomington",
+        "COUNTRY": "USA",
+        "WEBSITE": "https://logic.indiana.edu/faculty/moss/index.html",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Martin",
+        "SURNAME": "Zimmermann",
+        "AFFILIATION": "Aalborg University",
+        "COUNTRY": "Denmark",
+        "WEBSITE": "https://people.cs.aau.dk/~mzi/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Mikołaj",
+        "SURNAME": "Bojańczyk",
+        "AFFILIATION": "University of Warsaw",
+        "COUNTRY": "Poland",
+        "WEBSITE": "https://www.mimuw.edu.pl/~bojan/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Nao",
+        "SURNAME": "Hirokawa",
+        "AFFILIATION": "Japan Advanced Institute of Science and Technology, Nomi",
+        "COUNTRY": "Japan",
+        "WEBSITE": "https://www.jaist.ac.jp/~hirokawa/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Nick",
+        "SURNAME": "Bezhanishvili",
+        "AFFILIATION": "University of Amsterdam",
+        "COUNTRY": "Netherlands",
+        "WEBSITE": "https://staff.fnwi.uva.nl/n.bezhanishvili/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Nikolas",
+        "SURNAME": "Mählmann",
+        "AFFILIATION": "University of Warsaw",
+        "COUNTRY": "Poland",
+        "WEBSITE": "https://www.mimuw.edu.pl/~maehlmann/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Nikos",
+        "SURNAME": "Tzevelekos",
+        "AFFILIATION": "Queen Mary University of London",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://www.tzevelekos.org/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Pedro Henrique Azevedo de",
+        "SURNAME": "Amorim",
+        "AFFILIATION": "University of Brasília",
+        "COUNTRY": "Brazil",
+        "WEBSITE": "https://pedrohaa.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Pablo",
+        "SURNAME": "Barenbaum",
+        "AFFILIATION": "University of Buenos Aires",
+        "COUNTRY": "Argentina",
+        "WEBSITE": "https://foones.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Patricia",
+        "SURNAME": "Bouyer",
+        "AFFILIATION": "CNRS & LMF, ENS Paris-Saclay",
+        "COUNTRY": "France",
+        "WEBSITE": "https://lmf.cnrs.fr/PatriciaBouyer/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Paul Blain",
+        "SURNAME": "Levy",
+        "AFFILIATION": "University of Birmingham",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://pblevy.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Philip",
+        "SURNAME": "Saville",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://philipsaville.co.uk/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Salvador",
+        "SURNAME": "Lucas",
+        "AFFILIATION": "Universitat Politècnica de València",
+        "COUNTRY": "Spain",
+        "WEBSITE": "https://slucas.webs.upv.es/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Sandra",
+        "SURNAME": "Kiefer",
+        "AFFILIATION": "University of Oxford",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://www.cs.ox.ac.uk/people/sandra.kiefer/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Sławomir",
+        "SURNAME": "Lasota",
+        "AFFILIATION": "University of Warsaw",
+        "COUNTRY": "Poland",
+        "WEBSITE": "https://www.mimuw.edu.pl/~sl/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Stefano",
+        "SURNAME": "Guerrini",
+        "AFFILIATION": "Université Sorbonne Paris Nord",
+        "COUNTRY": "France",
+        "WEBSITE": "https://lipn.univ-paris13.fr/~guerrini/home/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Altenkirch",
+        "SURNAME": "Thorsten",
+        "AFFILIATION": "University of Nottingham",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://people.cs.nott.ac.uk/psztxa/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Toghrul",
+        "SURNAME": "Karimov",
+        "AFFILIATION": "Max Planck Institute for Software Systems",
+        "COUNTRY": "Germany",
+        "WEBSITE": "https://toghrul-karimov.github.io/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Tom",
+        "SURNAME": "de Jong",
+        "AFFILIATION": "University of Nottingham",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://tdejong.com/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Wan",
+        "SURNAME": "Fokkink",
+        "AFFILIATION": "Vrije Universiteit Amsterdam",
+        "COUNTRY": "Netherlands",
+        "WEBSITE": "https://www.cs.vu.nl/~wanf/",
+        "ROLE": "PC",
+        "COMMENT": ""
+    }
+]
